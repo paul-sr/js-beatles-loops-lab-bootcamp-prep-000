@@ -19,8 +19,9 @@ function johnLennonFacts (facts) {
   return temp
 }
 function iLoveTheBeatles (num) {
-  var temp = [];
+  var temp = []; var i = 0;
   do {
-    temp[i]
-  }
+    temp[i] = "I love the Beatles!"
+    i++;
+  } while  
 }
