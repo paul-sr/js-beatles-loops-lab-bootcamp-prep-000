@@ -23,7 +23,7 @@ function iLoveTheBeatles (num) {
   var i = 0;
   do {
     temp[i] = `I love the Beatles!`;
-    i++;
-  } while (i < num && i < 15) 
+    num++; i++;
+  } while (num < 15) 
   return temp
 }
