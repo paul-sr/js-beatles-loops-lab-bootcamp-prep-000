@@ -23,5 +23,5 @@ function iLoveTheBeatles (num) {
   do {
     temp[i] = "I love the Beatles!"
     i++;
-  } while  
+  } while (i < num) 
 }
