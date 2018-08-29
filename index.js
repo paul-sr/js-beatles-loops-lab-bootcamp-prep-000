@@ -19,7 +19,8 @@ function johnLennonFacts (facts) {
   return temp
 }
 function iLoveTheBeatles (num) {
-  var temp = []; var i = 0;
+  var temp = []; 
+  var i = 0;
   do {
     temp[i] = `I love the Beatles!`;
     i++;
